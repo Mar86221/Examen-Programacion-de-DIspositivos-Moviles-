@@ -1,7 +1,7 @@
 package com.example.partidotracker.data
 
 import com.example.partidotracker.data.model.PartidoModel
-
+//Creating burned data to be able to test the functionalities
 val name = "FMLN"
 val ideology = "Left"
 
